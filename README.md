@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hi, I'm Abdullah Mubarak
 
-<!--
-**Shad0wKillar/Shad0wKillar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **BSAI student at ITU, Lahore**, with a professional focus on **Artificial Intelligence** and **Deep Learning**. I am particularly passionate about **Computer Vision** and enjoy building self-driven coding projects from the ground up.
 
-Here are some ideas to get you started:
+### 🔍 Current Interests
+* **Computer Vision:** Deep diving into image recognition and generative models.
+* **Deep Learning:** Exploring neural networks and research-driven applications.
+* **XAI:** Understand the DL models to make them better. 
+* **Self-Coding:** Committed to independent project development and efficient software design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Environment & Tools
+* **OS:** Arch Linux (BTW)
+* **Editor:** Neovim (nvim)
+* **Languages:** Python, C++
+
+---
+*“Turning complex data into visual understanding.”*
